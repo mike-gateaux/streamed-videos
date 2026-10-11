@@ -1,0 +1,17 @@
+{
+    "videoId": "UECL_Splash.medium",
+    "width": 854,
+    "height": 420,
+    "fps": 25,
+    "colors": 96,
+    "totalFrames": 80,
+    "duration": 3.2,
+    "frameByteSize": 359064,
+    "totalSize": 3700909,
+    "uncompressedSize": 28725120,
+    "parts": [
+        "chunk_001.bin",
+        "chunk_002.bin"
+    ],
+    "compressed": true
+}

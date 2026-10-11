@@ -1,0 +1,20 @@
+{
+    "videoId": "UCL_Intro.low",
+    "width": 640,
+    "height": 360,
+    "fps": 18,
+    "colors": 64,
+    "totalFrames": 216,
+    "duration": 12.0,
+    "frameByteSize": 230656,
+    "totalSize": 8405194,
+    "uncompressedSize": 49821696,
+    "parts": [
+        "chunk_001.bin",
+        "chunk_002.bin",
+        "chunk_003.bin",
+        "chunk_004.bin",
+        "chunk_005.bin"
+    ],
+    "compressed": true
+}

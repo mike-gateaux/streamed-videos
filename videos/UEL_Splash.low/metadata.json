@@ -1,0 +1,16 @@
+{
+    "videoId": "UEL_Splash.low",
+    "width": 854,
+    "height": 420,
+    "fps": 20,
+    "colors": 64,
+    "totalFrames": 64,
+    "duration": 3.2,
+    "frameByteSize": 358936,
+    "totalSize": 1299012,
+    "uncompressedSize": 22971904,
+    "parts": [
+        "chunk_001.bin"
+    ],
+    "compressed": true
+}

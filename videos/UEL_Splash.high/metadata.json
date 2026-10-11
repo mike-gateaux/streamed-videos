@@ -1,0 +1,17 @@
+{
+    "videoId": "UEL_Splash.high",
+    "width": 1014,
+    "height": 499,
+    "fps": 25,
+    "colors": 128,
+    "totalFrames": 80,
+    "duration": 3.2,
+    "frameByteSize": 506498,
+    "totalSize": 2793375,
+    "uncompressedSize": 40519840,
+    "parts": [
+        "chunk_001.bin",
+        "chunk_002.bin"
+    ],
+    "compressed": true
+}

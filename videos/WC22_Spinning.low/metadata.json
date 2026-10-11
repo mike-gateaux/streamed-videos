@@ -1,0 +1,24 @@
+{
+    "videoId": "WC22_Spinning.low",
+    "width": 853,
+    "height": 480,
+    "fps": 20,
+    "colors": 64,
+    "totalFrames": 300,
+    "duration": 15.0,
+    "frameByteSize": 409696,
+    "totalSize": 16856996,
+    "uncompressedSize": 122908800,
+    "parts": [
+        "chunk_001.bin",
+        "chunk_002.bin",
+        "chunk_003.bin",
+        "chunk_004.bin",
+        "chunk_005.bin",
+        "chunk_006.bin",
+        "chunk_007.bin",
+        "chunk_008.bin",
+        "chunk_009.bin"
+    ],
+    "compressed": true
+}
