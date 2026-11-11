@@ -1,0 +1,30 @@
+{
+    "videoId": "WC22_Spinning.medium",
+    "width": 1013,
+    "height": 570,
+    "fps": 25,
+    "colors": 96,
+    "totalFrames": 375,
+    "duration": 15.0,
+    "frameByteSize": 577794,
+    "totalSize": 31203761,
+    "uncompressedSize": 216672750,
+    "parts": [
+        "chunk_001.bin",
+        "chunk_002.bin",
+        "chunk_003.bin",
+        "chunk_004.bin",
+        "chunk_005.bin",
+        "chunk_006.bin",
+        "chunk_007.bin",
+        "chunk_008.bin",
+        "chunk_009.bin",
+        "chunk_010.bin",
+        "chunk_011.bin",
+        "chunk_012.bin",
+        "chunk_013.bin",
+        "chunk_014.bin",
+        "chunk_015.bin"
+    ],
+    "compressed": true
+}

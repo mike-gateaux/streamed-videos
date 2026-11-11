@@ -1,0 +1,16 @@
+{
+    "videoId": "WC22_Splash.low",
+    "width": 853,
+    "height": 480,
+    "fps": 15,
+    "colors": 64,
+    "totalFrames": 76,
+    "duration": 5.066666666666666,
+    "frameByteSize": 409696,
+    "totalSize": 1530368,
+    "uncompressedSize": 31136896,
+    "parts": [
+        "chunk_001.bin"
+    ],
+    "compressed": true
+}

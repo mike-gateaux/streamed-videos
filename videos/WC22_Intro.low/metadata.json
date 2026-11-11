@@ -1,0 +1,22 @@
+{
+    "videoId": "WC22_Intro.low",
+    "width": 853,
+    "height": 480,
+    "fps": 20,
+    "colors": 160,
+    "totalFrames": 301,
+    "duration": 15.05,
+    "frameByteSize": 410080,
+    "totalSize": 13148429,
+    "uncompressedSize": 123434080,
+    "parts": [
+        "chunk_001.bin",
+        "chunk_002.bin",
+        "chunk_003.bin",
+        "chunk_004.bin",
+        "chunk_005.bin",
+        "chunk_006.bin",
+        "chunk_007.bin"
+    ],
+    "compressed": true
+}
